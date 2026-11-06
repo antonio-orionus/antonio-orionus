@@ -40,7 +40,6 @@ Pieces I pulled out of Arroxy and published on their own:
 |---|---|---|
 | [**yt&#8209;dlp&#8209;bridge**](https://www.npmjs.com/package/yt-dlp-bridge) | [![npm](https://img.shields.io/npm/v/yt-dlp-bridge?style=flat-square&logo=npm&label=&color=1f69ff&labelColor=0c0c16)](https://www.npmjs.com/package/yt-dlp-bridge) | TypeScript toolkit for safe yt-dlp command planning, argv generation, execution, parsing and structured errors. |
 | [**ytdlp&#8209;errors**](https://github.com/antonio-orionus/yt-dlp-errors) | [![npm](https://img.shields.io/npm/v/ytdlp-errors?style=flat-square&logo=npm&label=&color=1f69ff&labelColor=0c0c16)](https://www.npmjs.com/package/ytdlp-errors) | Turns yt-dlp stderr into a closed set of error kinds (`botBlock`, `rateLimit`, `geoBlocked`, `drmProtected`, …). Zero deps, snapshot-tested against upstream. |
-| [**yt&#8209;dlp&#8209;mcp&#8209;server**](https://github.com/antonio-orionus/yt-dlp-mcp-server) | [![npm](https://img.shields.io/npm/v/yt-dlp-mcp-server?style=flat-square&logo=npm&label=&color=1f69ff&labelColor=0c0c16)](https://www.npmjs.com/package/yt-dlp-mcp-server) | MCP server that gives AI agents typed tools to inspect, plan, download and post-process media. |
 
 ## ✦ Also in orbit
 
