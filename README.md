@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://orionus.dev"><img src="https://img.shields.io/badge/orionus.dev-0c0c16?style=for-the-badge&logo=googlechrome&logoColor=9dbcff" alt="orionus.dev"></a>
-  <a href="https://x.com/OrionusAI"><img src="https://img.shields.io/badge/@OrionusAI-0c0c16?style=for-the-badge&logo=x&logoColor=white" alt="X: @OrionusAI"></a>
+  <a href="https://x.com/antonio_orionus"><img src="https://img.shields.io/badge/@antonio__orionus-0c0c16?style=for-the-badge&logo=x&logoColor=white" alt="X: @antonio_orionus"></a>
   <a href="https://github.com/antonio-orionus/Arroxy/releases"><img src="https://img.shields.io/github/downloads/antonio-orionus/Arroxy/total?style=for-the-badge&label=Arroxy%20downloads&color=1f69ff&labelColor=0c0c16" alt="Arroxy downloads"></a>
 </p>
 
